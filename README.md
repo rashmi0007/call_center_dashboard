@@ -1,4 +1,4 @@
-# Pwc Switzerland Power BI virtual case experience - Call Center Analysis Dashboard
+# Pwc Switzerland Power BI Virtual Case experience - Call Center Analysis Dashboard
 
 ## About Project :
 In this project, dashboard was created in Power BI for the call center manager that reflects all relevant Key Performance Indicators (KPIs) and metrics from the dataset.
