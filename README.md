@@ -25,7 +25,7 @@ Data transformation was done using [PySpark](https://github.com/rashmi0007/call_
 
 
 ## Insights :
-Thus from above [Data Visualization](https://github.com/rashmi0007/call_center_dashboard/blob/carsales/README.md#data-visualization-dashboard-) it can be concluded that :-
+Thus from above [data visualization](https://github.com/rashmi0007/call_center_dashboard/blob/carsales/README.md#data-visualization-dashboard-), it can be concluded that :-
 
  ▪ Monday received the majority of the calls.
  
