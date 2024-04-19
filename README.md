@@ -18,7 +18,7 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 ## Actions Taken :
 Data transformation was done using [PySpark](https://github.com/rashmi0007/call_center_dashboard/blob/carsales/PySpark_tranforming_call_center_data.html) in Databricks and transformed [dataset](https://github.com/rashmi0007/call_center_dashboard/blob/carsales/Transformed_Data_Call_center_dataset.csv) was loaded into Power BI Desktop for getting insights.
 
-## Data Visualization (Dashboard) :
+## Data Visualization [(Dashboard)](https://github.com/rashmi0007/call_center_dashboard/blob/carsales/Call_Center_Dashboard.pbix) :
 ![image](https://github.com/rashmi0007/call_center_dashboard/assets/87612040/aede7a9e-b3ac-4575-bb70-228a3c84a7d4)
 
 ![image](https://github.com/rashmi0007/call_center_dashboard/assets/87612040/53bb62c3-60d4-43e1-8e91-b293a8d434bc)
