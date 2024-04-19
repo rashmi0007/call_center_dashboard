@@ -25,8 +25,15 @@ Data transformation was done using [PySpark](https://github.com/rashmi0007/call_
 
 
 ## Insights :
-Thus from above [Data Visualization]() can be concluded that :-
- ▪
+Thus from above [Data Visualization](https://github.com/rashmi0007/call_center_dashboard/blob/carsales/README.md#data-visualization-dashboard-) it can be concluded that :-
+
+ ▪ Majority of the calls were on Monday.
  
- ▪▪▪▪▪▪▪▪
+ ▪ Most of the calls were related to streaming and lowest no. of calls were from Admin support and contract related.
+
+ ▪ 72.92% of total calls were resolved and 27.08% of total calls were not resolved.
+ 
+ ▪ The average resolved time per call is 3.75 Min.
+ 
+ ▪ Greg's resolved percentage was more as per the answered call.
 
